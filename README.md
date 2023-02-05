@@ -116,7 +116,7 @@ colSums(is.na(data3))
 
 ![image](https://user-images.githubusercontent.com/119749518/216832064-cec3f8d8-6baa-49af-aa05-e41c5f2db7de.png)
 
-### Top 5 Bike Leaving Stations
+### Converting table to data frame and create a bar graph of Top 5 Bike Leaving Stations
 
     ```{r, fig.width = 11, fig.height = 10}
     ggplot(as.data.frame(data6), aes(x = Var1, y = Freq, fill = Freq)) 
