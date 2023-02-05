@@ -11,7 +11,7 @@ The project is a part of Google Data Analytics Certification course capstone. We
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ### Data
-**License**: The data has been made available by Motivate International Inc. under the [license](https://ride.divvybikes.com/data-license-agreement). 
+**License**: The data has been made available by Motivate International Inc. under the [license](https://ride.divvybikes.com/data-license-agreement).</br> 
 **Our Data Range**: October and November 2022 (2 months data).
 
 ## Tools
@@ -142,17 +142,13 @@ colSums(is.na(data3))
 
 ## Conclusion
 
-**Interesting findings were discovered once the data based on Average ride time and Overall data was compared.**
-
--   As per Average ride time the busiest day was  **Sunday**, which means that people are using the bikes for  **long distances on Sunday's**.
--   As per overall data the busiest days were  **Wednesday and Saturday**  which means that people are using the bikes for  **short distances on Wednesday and Saturday**.
--   As per Average ride time the  **favourite bike**  for  **long distances is docked bike** with  **66% share**.
--   As per Overall data the  **favourite bike**  for  **short distances is electric bike** with  **57.76% share**.
--   The average ride time of casual riders is  **close to 22 minutes**, however the same for member riders is  **12 and half minutes.**
--   **A common observation**  is that casual riders are using the bike rentals for far distances and even when usage by members is higher but they are using it for the short distances.
+-   As per overall data the busiest days for members were  **Monday and Tuesday**.
+-   As per overall data the busiest days for casuals were  **Thursday and Friday**.
+-   The most popular place to get the bikes is **Streeter Dr & Grand Ave** followed by **Ellis Ave & 60th St**.
+-   The most popular place to drop the bikes is **Streeter Dr & Grand Ave** followed by **Ellis Ave & 60th St**.
+-   The most popular bike on daily basis is **Electruc bike** followed by **Classic bike**.
 
 ## Recommendations
 
--   Targetted on-ground marketing strategies should be placed to convert casual riders to members on  **Saturday and Sunday's**  as most casual riders traffic come on these days i.e. (**63,277 and 56,397**) respectively.
+-   Targetted on-ground marketing strategies should be placed to convert casual riders to members on  **Thursday and Friday**  as most casual riders traffic come on these days.
 -   Discounting campaigns for new members should be initiated to lure the casual riders to enrol for membership.
--   More study is required as why for long distances based on average ride time docked bike is preferred by  **66% share**. However, for shorter distances or for less ride time the electric bike is preffered with  **57.76% share**.
