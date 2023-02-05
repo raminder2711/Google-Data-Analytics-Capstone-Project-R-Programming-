@@ -89,7 +89,8 @@ data3$days <- weekdays(data3$started_at)
 ```{r}
 colSums(is.na(data3))
 ```
-![image](https://user-images.githubusercontent.com/119749518/216831855-4da14079-0a51-4146-bcdd-27826bca60de.png)
+![image](https://user-images.githubusercontent.com/119749518/216832493-7d674543-cf31-4ecd-832f-88cc81d6bfcd.png)
+
 
 ## Now Let's Visualize
 
