@@ -146,7 +146,7 @@ colSums(is.na(data3))
 -   As per overall data the busiest days for casuals were  **Thursday and Friday**.
 -   The most popular place to get the bikes is **Streeter Dr & Grand Ave** followed by **Ellis Ave & 60th St**.
 -   The most popular place to drop the bikes is **Streeter Dr & Grand Ave** followed by **Ellis Ave & 60th St**.
--   The most popular bike on daily basis is **Electruc bike** followed by **Classic bike**.
+-   The most popular bike on daily basis is **Electric bike** followed by **Classic bike**.
 
 ## Recommendations
 
